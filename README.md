@@ -9,4 +9,5 @@ Projects on Frontend Framework ReactJS
 
 <img src = "https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png" height = 500 width = 900>
 
-
+<br>
+*Note: Due to large file size and github not supporting file size more than 100MB. So, i uploaded the required files only. 
